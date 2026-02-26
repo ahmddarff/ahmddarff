@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 🔭 I’m currently working on Fasilkom-TI USU
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmddarff/ahmddarff/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmddarff/ahmddarff/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmddarff/ahmddarff/main/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmddarff/ahmddarff/main/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmddarff/ahmddarff/output/pacman-contribution-graph.svg">
 </picture>
 
