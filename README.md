@@ -2,6 +2,10 @@
 
 ![](img/github-header-banner.png)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB86FC&size=24&center=true&vCenter=true&width=600&lines=Front-End+Developer;Flutter+Enthusiast;Laravel+Developer;UI%2FUX+Focused;Always+Learning+New+Things" />
+</p>
+
 <div align="center">
   <h1>👋 Hi Everyone, I'm Arif👋</h1>
   <h3>💻 Front-End Developer | Informatics Student at Fasilkom-TI USU</h3>
@@ -49,7 +53,46 @@ About Me ☺️:
 <img src="https://skillicons.dev/icons?i=c,cpp,css,dart,flutter,java,js,laravel,php)](https://skillicons.dev"/>
 </p>
 
-## 💧 My Projects
+### 🚀 Currently Working On
+
+- 🔥 Building scalable front-end interfaces
+- 📱 Exploring Flutter for mobile development
+- 🎨 Improving UI/UX consistency & design systems
+- 🧠 Learning Data Structures & Algorithm optimization
+
+### 🏆 Achievements
+
+- 🥇 Project Manager of PetPartner Mobile App
+- 📄 Academic journal on Transportation Optimization (Shortest Path)
+- 🎓 Informatics Student at Fasilkom-TI USU
+
+###
+
+### 💡 What I Can Do
+
+✔️ Build responsive web interfaces  
+✔️ Integrate REST APIs  
+✔️ Convert Figma design to real application  
+✔️ Manage small development teams  
+✔️ Design user-friendly mobile UI  
+
+###
+
+### 📌 Check My Best Work
+
+⭐ RentalPartner → Complete booking system  
+⭐ PetPartner → End-to-end mobile solution  
+⭐ AIMS → Academic management system  
+
+###
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ahmddarff?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/ahmddarff?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=ahmddarff&style=for-the-badge&color=brightgreen" />
+</p>
+
+### 💧 My Projects
 
 | Project | Description | Tech Stack | Peran
 |---------|------------|------------| ---------
