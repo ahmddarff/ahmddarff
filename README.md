@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>👋 Hi Everyone, I'm Arif👋</h1>
-  <h3>Front-End Developer</h3>
+  <h3>💻 Front-End Developer | Informatics Student at Fasilkom-TI USU</h3>
 
   <a href="https://instagram.com/ahmdd.arff">
     <img src="img/ig.jpg" width="30"/>
@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 -->
 
 About Me ☺️:
-
-
-⚡ Fun fact: i love cat and i love taroo for sure
-🔭 I’m student working on Fasilkom-TI USU
+- 🎓 Informatics Student at Universitas Sumatera Utara  
+- 💻 Passionate about Front-End & UI Development  
+- 🐱 Cat Lover & Taro enthusiast  
+- 🚀 Currently exploring modern web & mobile technologies
 
 💻 Tech Stack
 <p align="center">
@@ -90,5 +90,11 @@ About Me ☺️:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmddarff&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<p align="center">
+✨ “Building clean interfaces, crafting better user experiences.” ✨
+</p>
 
 
