@@ -1,9 +1,11 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Ahmad Arif Fatahillah</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BB86FC&height=150&section=header&text=Ahmad%20Arif%20Fatahillah&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BB86FC&size=26&center=true&vCenter=true&width=700&lines=Front-End+Developer;Flutter+Enthusiast;Laravel+Developer;UI%2FUX+Focused;Always+Building+Something+Better" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB86FC&size=26&center=true&vCenter=true&width=750&lines=Front-End+Developer;Flutter+Enthusiast;Laravel+Developer;UI%2FUX+Focused;Clean+Code+Advocate;Always+Building+Something+Better" />
 </p>
 
 <p align="center">
@@ -12,8 +14,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ahmddarff?style=for-the-badge&color=BB86FC" />
-  <img src="https://komarev.com/ghpvc/?username=ahmddarff&style=for-the-badge&color=00F5A0" />
-  <img src="https://img.shields.io/badge/Focus-FrontEnd%20%26%20Mobile-BB86FC?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/ahmddarff?style=for-the-badge&color=00F5A0" />
+  <img src="https://komarev.com/ghpvc/?username=ahmddarff&style=for-the-badge&color=F59E0B" />
+  <img src="https://img.shields.io/badge/Focus-FrontEnd%20%26%20Mobile-22D3EE?style=for-the-badge" />
 </p>
 
 ---
@@ -21,39 +24,39 @@
 ## 👨‍💻 About Me
 
 🎓 Informatics Student at **Fasilkom-TI Universitas Sumatera Utara**  
-💻 Passionate about building clean & scalable front-end systems  
-📱 Flutter & modern web development enthusiast  
-🎨 Strong interest in UI/UX consistency & user experience  
-🐱 Cat enthusiast & Taro lover  
+💻 Focused on building scalable & maintainable front-end systems  
+📱 Passionate about Flutter & modern web technologies  
+🎨 Strong interest in UI consistency & user-centered design  
+🐱 Cat enthusiast  
 
-> “I don’t just write code. I craft interfaces.”
+> “I don’t just write code. I engineer user experiences.”
 
 ---
 
 ## 🚀 Currently Exploring
 
-- Advanced Front-End Architecture  
-- Mobile App Scalability with Flutter  
-- Clean Code & Reusable Component Design  
+- Front-End Architecture Patterns  
+- Scalable Mobile Apps with Flutter  
+- Clean Code & Reusable Component Systems  
 - Performance Optimization  
-- Data Structures & Algorithm Mastery  
+- Advanced Data Structures & Algorithms  
 
 ---
 
 ## 💡 What I Can Do
 
-✔️ Build responsive & modern web interfaces  
-✔️ Convert Figma design into production-ready apps  
-✔️ Integrate REST APIs  
-✔️ Lead small development teams  
-✔️ Manage full project lifecycle  
+✔️ Build responsive & modern interfaces  
+✔️ Transform Figma designs into production-ready apps  
+✔️ Integrate RESTful APIs  
+✔️ Lead & manage small development teams  
+✔️ Deliver end-to-end project workflows  
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,dart,flutter,java,js,laravel,php,tailwind,mysql,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,dart,flutter,java,js,laravel,php,tailwind,mysql,figma&perline=6" />
 </p>
 
 ---
@@ -62,10 +65,10 @@
 
 | Project | Description | Tech Stack | Role |
 |----------|------------|------------|------|
-| **RentalPartner** | Web-based car rental management system featuring booking workflow, authentication, and user/owner dashboard | Laravel, Tailwind CSS, MySQL | Front-End Developer |
-| **Bookora** | Book discovery platform with search functionality and responsive interface design | Flask, HTML, CSS | Front-End Developer |
-| **PetPartner** | Mobile application providing integrated pet-care services including booking and service management | Flutter, Dart, Figma | Project Manager, UI/UX Designer, Front-End Developer |
-| **AIMS** | Academic management system for tutoring center with data management and role-based access features | Laravel, Tailwind CSS, MySQL | Project Manager, Front-End Developer |
+| **RentalPartner** | Web-based car rental system with booking workflow, authentication & dashboard | Laravel, Tailwind CSS, MySQL | Front-End Developer |
+| **Bookora** | Responsive book discovery platform with advanced search | Flask, HTML, CSS | Front-End Developer |
+| **PetPartner** | Integrated mobile pet-care service application | Flutter, Dart, Figma | Project Manager, UI/UX Designer, Front-End Developer |
+| **AIMS** | Academic management system with role-based access control | Laravel, Tailwind CSS, MySQL | Project Manager, Front-End Developer |
 
 ---
 
@@ -86,7 +89,7 @@
 
 ---
 
-## 🎧 Recently Played on Spotify
+## 🎧 Currently Vibing
 
 <p align="center">
   <a href="https://open.spotify.com/user/ahmdd.arff">
@@ -96,26 +99,18 @@
 
 ---
 
-## 🐍 Contribution Animation
+## 🐍 Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmddarff/ahmddarff/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmddarff/ahmddarff/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmddarff/ahmddarff/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/richardlcp119/richardlcp119/output/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmddarff/ahmddarff/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmddarff&radius=16&theme=react&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmddarff&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
@@ -137,5 +132,9 @@
 ---
 
 <p align="center">
-⚡ Always learning. Always building. Always improving.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5A0&height=120&section=footer"/>
+</p>
+
+<p align="center">
+⚡ Always Learning • Always Building • Always Improving ⚡
 </p>
