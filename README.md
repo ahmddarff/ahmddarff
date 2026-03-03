@@ -60,12 +60,12 @@
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech | Role |
-|----------|------------|------|------|
-| **RentalPartner** | Car rental management system with booking flow & dashboard | Laravel, Tailwind | Front-End Dev |
-| **Bookora** | Book discovery & search platform | Flask, HTML | Front-End Dev |
-| **PetPartner** | Mobile pet-care service application | Flutter | PM, UI/UX, Front-End |
-| **AIMS** | Academic management system | Laravel, MySQL | PM, Front-End |
+| Project | Description | Tech Stack | Role |
+|----------|------------|------------|------|
+| **RentalPartner** | Web-based car rental management system featuring booking workflow, authentication, and user/owner dashboard | Laravel, Tailwind CSS, MySQL | Front-End Developer |
+| **Bookora** | Book discovery platform with search functionality and responsive interface design | Flask, HTML, CSS | Front-End Developer |
+| **PetPartner** | Mobile application providing integrated pet-care services including booking and service management | Flutter, Dart, Figma | Project Manager, UI/UX Designer, Front-End Developer |
+| **AIMS** | Academic management system for tutoring center with data management and role-based access features | Laravel, Tailwind CSS, MySQL | Project Manager, Front-End Developer |
 
 ---
 
@@ -76,8 +76,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmddarff&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmddarff&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmddarff&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmddarff&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmddarff&theme=tokyonight" />
 </p>
 
 ---
@@ -99,6 +103,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmddarff/ahmddarff/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmddarff/ahmddarff/output/pacman-contribution-graph.svg">
 </picture>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/richardlcp119/richardlcp119/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
