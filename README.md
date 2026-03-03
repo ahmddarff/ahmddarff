@@ -1,122 +1,98 @@
-## Profile Ahmad Arif Fatahillah
+<!-- ================= HEADER ================= -->
 
-![](img/github-header-banner.png)
+<h1 align="center">Ahmad Arif Fatahillah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BB86FC&size=24&center=true&vCenter=true&width=600&lines=Front-End+Developer;Flutter+Enthusiast;Laravel+Developer;UI%2FUX+Focused;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB86FC&size=26&center=true&vCenter=true&width=700&lines=Front-End+Developer;Flutter+Enthusiast;Laravel+Developer;UI%2FUX+Focused;Always+Building+Something+Better" />
 </p>
 
-<div align="center">
-  <h1>👋 Hi Everyone, I'm Arif👋</h1>
-  <h3>💻 Front-End Developer | Informatics Student at Fasilkom-TI USU</h3>
-
-  <a href="https://instagram.com/ahmdd.arff">
-    <img src="img/ig.jpg" width="30"/>
-  </a>
-
-  <a href="https://x.com/ungkafe">
-    <img src="img/yt.png" width="30"/>
-  </a>
-
-  <a href="https://www.youtube.com/@agnesketaren1173">
-    <img src="img/gmail.png" width="30"/>
-  </a>
-
-  <a href=https://www.linkedin.com/in/agnes-olivia-ketaren-4511a5315>
-    <img src="img/linkedin.png" width="30"/>
-  </a>
-</div>
-
-<!--
-**ahmddarff/ahmddarff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-About Me ☺️:
-- 🎓 Informatics Student at Universitas Sumatera Utara  
-- 💻 Passionate about Front-End & UI Development  
-- 🐱 Cat Lover & Taro enthusiast  
-- 🚀 Currently exploring modern web & mobile technologies
-
-💻 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,css,dart,flutter,java,js,laravel,php)](https://skillicons.dev"/>
+  <img src="img/github-header-banner.png" />
 </p>
 
-### 🚀 Currently Working On
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ahmddarff?style=for-the-badge&color=BB86FC" />
+  <img src="https://komarev.com/ghpvc/?username=ahmddarff&style=for-the-badge&color=00F5A0" />
+  <img src="https://img.shields.io/badge/Focus-FrontEnd%20%26%20Mobile-BB86FC?style=for-the-badge" />
+</p>
 
-- 🔥 Building scalable front-end interfaces
-- 📱 Exploring Flutter for mobile development
-- 🎨 Improving UI/UX consistency & design systems
-- 🧠 Learning Data Structures & Algorithm optimization
+---
 
-### 🏆 Achievements
+## 👨‍💻 About Me
 
-- 🥇 Project Manager of PetPartner Mobile App
-- 📄 Academic journal on Transportation Optimization (Shortest Path)
-- 🎓 Informatics Student at Fasilkom-TI USU
+🎓 Informatics Student at **Fasilkom-TI Universitas Sumatera Utara**  
+💻 Passionate about building clean & scalable front-end systems  
+📱 Flutter & modern web development enthusiast  
+🎨 Strong interest in UI/UX consistency & user experience  
+🐱 Cat enthusiast & Taro lover  
 
-###
+> “I don’t just write code. I craft interfaces.”
 
-### 💡 What I Can Do
+---
 
-✔️ Build responsive web interfaces  
+## 🚀 Currently Exploring
+
+- Advanced Front-End Architecture  
+- Mobile App Scalability with Flutter  
+- Clean Code & Reusable Component Design  
+- Performance Optimization  
+- Data Structures & Algorithm Mastery  
+
+---
+
+## 💡 What I Can Do
+
+✔️ Build responsive & modern web interfaces  
+✔️ Convert Figma design into production-ready apps  
 ✔️ Integrate REST APIs  
-✔️ Convert Figma design to real application  
-✔️ Manage small development teams  
-✔️ Design user-friendly mobile UI  
+✔️ Lead small development teams  
+✔️ Manage full project lifecycle  
 
-###
+---
 
-### 📌 Check My Best Work
-
-⭐ RentalPartner → Complete booking system  
-⭐ PetPartner → End-to-end mobile solution  
-⭐ AIMS → Academic management system  
-
-###
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ahmddarff?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/ahmddarff?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
-  <img src="https://komarev.com/ghpvc/?username=ahmddarff&style=for-the-badge&color=brightgreen" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,dart,flutter,java,js,laravel,php,tailwind,mysql,figma" />
 </p>
 
-### 💧 My Projects
+---
 
-| Project | Description | Tech Stack | Peran
-|---------|------------|------------| ---------
-|**RentalPartner** | Car rental management system with booking flow, user & owner dashboard | Laravel, Tailwind CSS | Front-End Developer
-|**Bookora** | Book discovery and search platform | Flask, HTML, Figma | Front-End Developer
-|**PetPartner** | Mobile application for pet care services and needs | Flutter, Figma | Project Manager, UI/UX Designer, Front-End Developer
-|**AIMS** | Academic management system for tutoring center (IEC Jemadi) | Laravel, MySQL, Tailwind CSS, Figma | Project Manager, Front-End Developer
+## 📌 Featured Projects
 
-🔥Github Analytics
+| Project | Description | Tech | Role |
+|----------|------------|------|------|
+| **RentalPartner** | Car rental management system with booking flow & dashboard | Laravel, Tailwind | Front-End Dev |
+| **Bookora** | Book discovery & search platform | Flask, HTML | Front-End Dev |
+| **PetPartner** | Mobile pet-care service application | Flutter | PM, UI/UX, Front-End |
+| **AIMS** | Academic management system | Laravel, MySQL | PM, Front-End |
+
+---
+
+## 🔥 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmddarff&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmddarff&theme=tokyonight-duo&hide_border=true" />
 </p>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmddarff&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmddarff&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-🎶 And Here My Top 5 Song's Recently Played in Soptifiy :
+---
 
-<div align="center">
+## 🎧 Recently Played on Spotify
+
+<p align="center">
   <a href="https://open.spotify.com/user/ahmdd.arff">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xkxialsyrnkh3hkao3m5p7td4" alt="Spotify recently played"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xkxialsyrnkh3hkao3m5p7td4" />
   </a>
-</div>
+</p>
 
-###
+---
+
+## 🐍 Contribution Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmddarff/ahmddarff/output/pacman-contribution-graph-dark.svg">
@@ -124,20 +100,32 @@ About Me ☺️:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmddarff/ahmddarff/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/ahmddarff/ahmddarff/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmddarff&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
+## 📈 Activity Graph
 
 <p align="center">
-✨ “Building clean interfaces, crafting better user experiences.” ✨
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmddarff&radius=16&theme=react&area=true&hide_border=true" />
 </p>
 
+---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/ahmdd.arff">
+    <img src="img/ig.jpg" width="35"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="img/gmail.png" width="35"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="img/linkedin.png" width="35"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+⚡ Always learning. Always building. Always improving.
+</p>
