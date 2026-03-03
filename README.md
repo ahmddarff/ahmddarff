@@ -121,10 +121,10 @@
   <a href="https://instagram.com/ahmdd.arff">
     <img src="img/ig.jpg" width="35"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:ahmadariffatahillah1267@gmail.com">
     <img src="img/gmail.png" width="35"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/ahmad-arif-f-554381229">
     <img src="img/linkedin.png" width="35"/>
   </a>
 </p>
